@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointersANDCStrings", "PointersANDCStrings\PointersANDCStrings.vcxproj", "{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Debug|x64.ActiveCfg = Debug|x64
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Debug|x64.Build.0 = Debug|x64
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Debug|x86.Build.0 = Debug|Win32
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Release|x64.ActiveCfg = Release|x64
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Release|x64.Build.0 = Release|x64
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Release|x86.ActiveCfg = Release|Win32
+		{DCF8A4FC-F4B2-44F5-86F0-E03F3837B9C0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2EA910-2785-4356-AEF0-214E4CF304DD}
+	EndGlobalSection
+EndGlobal
